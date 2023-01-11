@@ -40,3 +40,5 @@ The DeStore platform and the wider adoption of phygital assets can lead to reduc
 #### DeStore Powers Decentralized Commerce with SubQuery’s Tools - [Link](https://medium.com/@destore-network/new-partnership-destore-powers-decentralized-commerce-with-subquerys-tools-2cddfe40ac82)
 
 #### DeStore Strategically Partners with AEM Algorithm - [Link](https://medium.com/@destore-network/destore-strategically-partners-with-aem-algorithm-to-allow-10-million-small-to-medium-2ee1464d4f31)
+
+#### Partnership with Future and ShipHero Intergration - [Link](https://medium.com/@destore-network/collaboration-announcement-5789708add38)
