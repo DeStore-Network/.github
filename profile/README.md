@@ -29,11 +29,7 @@ The DeStore platform and the wider adoption of phygital assets can lead to reduc
 
 ## Information: 
 
-🙋‍♀️ please Join our [Telegram channel](https://t.me/DeStore_Network)
-
-🌈🧙 Remember, it is in the bear market, where the **OGs** are born  
-
-🏆🏆🏆 🙋‍♀️ Please join our Telegram channel
+🙋‍♀️ Please join our and keep up to date [Telegram channel](https://t.me/DeStore_Network)
 
 🌈🧙 Remember, it is in a bear market where the OGs are born
 
