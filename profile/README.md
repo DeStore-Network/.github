@@ -26,3 +26,6 @@ The DeStore platform and the wider adoption of phygital assets can lead to reduc
 🙋‍♀️ please Join our [Telegram channel](https://t.me/DeStore_Network)
 
 🌈🧙 Remember, it is in the bear market, where the **OGs** are born  
+
+🏆🏆🏆 DeStore Network has been granted the Approval to distrabute offical Kusama Swag with all products minted on the Kusama Relay Chain.
+check it out your self 👀👀 [Motion562](https://kusama.polkassembly.io/motion/562)
