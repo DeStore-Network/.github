@@ -29,8 +29,14 @@ The DeStore platform and the wider adoption of phygital assets can lead to reduc
 
 ## Information: 
 
-🙋‍♀️ Please join our and keep up to date [Telegram channel](https://t.me/DeStore_Network).
+- 🙋‍♀️ Please join our and keep up to date [Telegram channel](https://t.me/DeStore_Network).
 
-🌈🧙 Remember, it is in the bear market where the OGs are born!
+- 🌈🧙 Remember, it is in the bear market where the OGs are born!
 
-🏆🏆🏆 DeStore Network has been granted approval to distribute official Kusama swag with all products minted on the Kusama Relay Chain. Check it out yourself 👀👀 [Motion562](https://kusama.polkassembly.io/motion/562).
+#### 🏆🏆🏆 DeStore Network has been granted approval to distribute official Kusama swag with all products minted on the Kusama Relay Chain. Check it out yourself 👀👀 [Motion562](https://kusama.polkassembly.io/motion/562).
+
+#### Metarock Rebrands to DeStore - [Link](https://medium.com/@destore-network/metarock-rebrands-to-destore-e7d6628941bc)
+
+#### DeStore Powers Decentralized Commerce with SubQuery’s Tools - [Link](https://medium.com/@destore-network/new-partnership-destore-powers-decentralized-commerce-with-subquerys-tools-2cddfe40ac82)
+
+#### DeStore Strategically Partners with AEM Algorithm - [Link](https://medium.com/@destore-network/destore-strategically-partners-with-aem-algorithm-to-allow-10-million-small-to-medium-2ee1464d4f31)
