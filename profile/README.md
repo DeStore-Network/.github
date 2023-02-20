@@ -9,7 +9,7 @@
 
 ## Objective: 
 
-The DeStore platform aims to facilitate the adoption and management of phygital assets, which are physical assets connected to a **Digital Twin**. By utilizing smart contracts and blockchain technology, DeStore enables the creation, management, and trading of these assets, with the goal of providing pathways for small to medium enterprises (**SMEs**), **Creators**, and decentralized autonomous organizations (**DAOs**) to expand their brand and sell real-world products on web 3.0 infrastructure.
+The DeStore platform aims to facilitate the adoption and management of phygital assets, which are physical assets connected to a **Digital Twin**. By utilizing smart contracts and blockchain technology, DeStore enables the creation, management, and trading of these assets, with the goal of providing pathways for small to medium enterprises (**SMEs**), **Creators**, and decentralized autonomous organizations (**DAOs**) to expand their brand and tokenize and sell real-world products on web 3.0 infrastructure.
 
 
 ## Methods:
