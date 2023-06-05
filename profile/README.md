@@ -4,7 +4,7 @@
  <img alt="YOUR-ALT-TEXT" src="YOUR-DEFAULT-IMAGE">
 </picture>
 
-# DeStore Network - **The hybrid marketplace, ROAM FREE**
+# DeStore Network - **The Hybrid Marketplace, ROAM FREE**
 
 
 ## Objective: 
