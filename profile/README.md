@@ -4,7 +4,7 @@
  <img alt="YOUR-ALT-TEXT" src="YOUR-DEFAULT-IMAGE">
 </picture>
 
-# DeStore Network - **A marketplace for Phygital Assets**
+# DeStore Network - **The hybrid marketplace, ROAM FREE**
 
 
 ## Objective: 
